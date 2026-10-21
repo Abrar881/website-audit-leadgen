@@ -1,0 +1,15 @@
+.env
+data/leads.db
+data/cache/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+dist/
+*.egg-info/
+.superpowers/
+node_modules/
+dashboard/.next/
+dashboard/out/
